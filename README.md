@@ -1,7 +1,7 @@
 # KAML-2025
 AI with LSST workshop - KAML 2025
 
-1. catalogues.ipynb
+1. KAML_catalogues.ipynb
 
 in this notebook we will:
   - download catalogue data
@@ -9,7 +9,7 @@ in this notebook we will:
   - implement regression using decision trees, random forrests and neural networks
   - compare their performances
  
-2. images.ipynb
+2. KAML_images.ipynb
    
 in this notebook we will:
   - download images from SDSS
